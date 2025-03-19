@@ -40,3 +40,27 @@
 .read-the-docs {
   color: #888;
 }
+
+form {
+  border: 1.5px solid white;
+  display: flex;
+  flex-flow: column wrap;
+  background-color: lightgray;
+}
+
+label {
+  height: 40px;
+  width: 300px;
+  padding: 2px;
+  margin: 2px;
+  color: red;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+button {
+  background-color: red;
+  color: lightgray;
+}
